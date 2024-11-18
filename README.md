@@ -1,24 +1,24 @@
 ![Logo](./assets/images/fire-prevent/Logo_App.png)
 
-# Fire Prevention - Fire Safety Skills
+# Phòng Cháy - Kỹ Năng An Toàn Cháy
 
-## Description:
-Fire Prevention is a mobile application designed to educate users on fire safety skills, ranging from basic to advanced levels. The app provides a comprehensive learning experience through instructional videos, detailed lessons, and interactive quizzes.
+## Mô Tả:
+Phòng Cháy là một ứng dụng di động được thiết kế để giáo dục người dùng về các kỹ năng an toàn cháy, từ cơ bản đến nâng cao. Ứng dụng cung cấp trải nghiệm học tập toàn diện thông qua các video hướng dẫn, bài học chi tiết và các bài kiểm tra tương tác.
 
-Fire Prevention works well on both iOS and Android devices.
+Phòng Cháy hoạt động tốt trên cả thiết bị iOS và Android.
 
-**Main Features:**
-- Users can watch monthly featured fire prevention instructional videos.
-- Users can access lessons that include both video content and detailed written information.
-- Practice exercises are available in the form of quizzes with three difficulty levels.
+**Các Tính Năng Chính:**
+- Người dùng có thể xem các video hướng dẫn phòng cháy được chọn lọc hàng tháng.
+- Người dùng có thể truy cập các bài học bao gồm cả nội dung video và thông tin viết chi tiết.
+- Các bài tập thực hành có sẵn dưới dạng các bài kiểm tra với ba cấp độ khó khác nhau.
 
-## Technologies Used:
-* [React Native:](https://reactnative.dev/) A framework that supports building cross-platform mobile applications, ensuring a seamless experience on both iOS and Android devices.
-* [Redux Toolkit:](https://redux-toolkit.js.org/) A library that efficiently manages the application’s state, allowing for easy scalability and maintenance of the app's complex state logic.
-* [nativewind:](https://nativewind.dev/) A utility-first CSS framework for React Native, enabling rapid styling and design of the app's user interface.
-* [expo-router:](https://expo.dev/router) A routing library for Expo applications that simplifies navigation and URL handling, making it easier to manage app screens and deep linking.
+## Công Nghệ Sử Dụng:
+* [React Native:](https://reactnative.dev/) Một framework hỗ trợ xây dựng ứng dụng di động đa nền tảng, đảm bảo trải nghiệm liền mạch trên cả thiết bị iOS và Android.
+* [Redux Toolkit:](https://redux-toolkit.js.org/) Một thư viện quản lý trạng thái ứng dụng một cách hiệu quả, cho phép dễ dàng mở rộng và bảo trì logic trạng thái phức tạp của ứng dụng.
+* [nativewind:](https://nativewind.dev/) Một framework CSS theo kiểu utility-first cho React Native, cho phép thiết kế và tạo kiểu giao diện người dùng của ứng dụng một cách nhanh chóng.
+* [expo-router:](https://expo.dev/router) Một thư viện định tuyến cho các ứng dụng Expo giúp đơn giản hóa điều hướng và xử lý URL, làm cho việc quản lý các màn hình ứng dụng và liên kết sâu trở nên dễ dàng hơn.
 
-## [Installation](https://drive.google.com/file/d/1InLIHxG_A2SMXYC8bMfvmKvZ0uMRdXOm/view?usp=sharing/)
+## [Cài Đặt](https://drive.google.com/file/d/1InLIHxG_A2SMXYC8bMfvmKvZ0uMRdXOm/view?usp=sharing/)
 
 # Demo
 [![Xem video](./assets/images/screens/image.png)(./)](https://firebasestorage.googleapis.com/v0/b/food-donation-98ef2.appspot.com/o/record.mp4?alt=media&token=646d531b-6d73-4319-9541-f73de4ecbe40)
